@@ -1,0 +1,4 @@
+*.java
+dir2/
+build/*.jar
+src/*.java
